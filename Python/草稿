@@ -1,0 +1,8 @@
+WARNING: The script pyflakes.exe is installed in 'C:\Users\Admin\AppData\Roaming\Python\Python310\Scripts' which is not on PATH. 
+Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. 
+WARNING: The script pycodestyle.exe is installed in 'C:\Users\Admin\AppData\Roaming\Python\Python310\Scripts' which is not on PATH. 
+Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. 
+WARNING: The script flake8.exe is installed in 'C:\Users\Admin\AppData\Roaming\Python\Python310\Scripts' which is not on PATH. 
+Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.  
+WARNING: The scripts yapf-diff.exe and yapf.exe are installed in 'C:\Users\Admin\AppData\Roaming\Python\Python310\Scripts' which is not on PATH. 
+Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
